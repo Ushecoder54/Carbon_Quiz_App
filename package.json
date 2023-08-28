@@ -1,0 +1,14 @@
+{
+    "name": "carbon-quiz-app",
+    "version": "1.0.0",
+    "description": "A quiz app built with the Carbon web framework.",
+    "scripts": {
+      "start": "carbon server"
+    },
+    "author": "Ushe Chamboko",
+    "license": "MIT",
+    "dependencies": {
+      "carbon-cli": "^1.2.0"  
+    }
+  }
+  
